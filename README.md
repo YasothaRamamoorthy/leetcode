@@ -21,5 +21,6 @@
 | 1011.| 🎶[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)|
 |1071.| 🎶[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Greatest%20Common%20Divisor%20of%20Strings.cpp)|
 |1523.| 🎶[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)|
+|1675..| 🎶[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Minimize%20Deviation%20in%20Array.cpp)|
 |2455.| 🎶[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three.cpp)|
 
