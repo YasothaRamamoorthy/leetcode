@@ -7,6 +7,8 @@
 | 7.| 🎶[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Reverse%20Integer.c)|
 | 9.| 🎶[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Palindrome%20Number.c)|
 | 19.| 🎶[Remove Nth Node From End of List](https://leetcode.com/problems/palindrome-number/)| [C](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Remove%20Nth%20Node%20From%20End%20of%20List.cpp)|
+| 21.| 🎶[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan&id=level-1)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Merge%20Two%20Sorted%20Lists.cpp)|
+| 28.| 🎶[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)|
 | 35.| 🎶[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Search%20Insert%20Position.cpp)|
 | 64.| 🎶[Add Binary](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Add%20Binary.cpp)|
 | 72.| 🎶[Edit Distance](https://leetcode.com/problems/edit-distance/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Edit%20Distance.cpp)|
@@ -14,8 +16,9 @@
 | 104.| 🎶[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Maximum%20Depth%20of%20Binary%20Tree.cpp)|
 | 121.| 🎶[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|
 | 205| 🎶[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/?envType=study-plan&id=level-1)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Isomorphic%20Strings.cpp)|
+| 206.| 🎶[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=study-plan&id=level-1)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Reverse%20Linked%20List.cpp)|
 | 226.| 🎶[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Invert%20Binary%20Tree.cpp)|
-|392.|  [Is Subsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1)|
+|392.|  [Is Subsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1)|[C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Is%20Subsequence.cpp)|
 | 427.| 🎶[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Construct%20Quad%20Tree.cpp)|
 | 443.| 🎶[String Compression](https://leetcode.com/problems/string-compression/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/String%20Compression.cpp)|
 | 502.| 🎶[IPO](https://leetcode.com/problems/ipo/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/IPO.cpp)|
