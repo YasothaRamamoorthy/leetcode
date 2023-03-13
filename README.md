@@ -13,6 +13,7 @@
 | 35.| 🎶[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Search%20Insert%20Position.cpp)|
 | 64.| 🎶[Add Binary](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Add%20Binary.cpp)|
 | 72.| 🎶[Edit Distance](https://leetcode.com/problems/edit-distance/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Edit%20Distance.cpp)|
+| 101.| 🎶[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Symmetric%20Tree.cpp)|
 | 103.| 🎶[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)|
 | 104.| 🎶[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Maximum%20Depth%20of%20Binary%20Tree.cpp)|
 | 109.| 🎶[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.cpp)|
