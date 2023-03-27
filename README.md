@@ -11,6 +11,7 @@
 | 23.| 🎶[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Merge%20k%20Sorted%20Lists.cpp)|
 | 28.| 🎶[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)|
 | 35.| 🎶[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Search%20Insert%20Position.cpp)|
+| 64.| 🎶[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Minimum%20Path%20Sum.cpp)|
 | 64.| 🎶[Add Binary](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Add%20Binary.cpp)|
 | 72.| 🎶[Edit Distance](https://leetcode.com/problems/edit-distance/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Edit%20Distance.cpp)|
 | 101.| 🎶[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Symmetric%20Tree.cpp)|
