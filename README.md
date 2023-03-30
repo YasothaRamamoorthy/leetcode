@@ -14,6 +14,7 @@
 | 64.| 🎶[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Minimum%20Path%20Sum.cpp)|
 | 64.| 🎶[Add Binary](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Add%20Binary.cpp)|
 | 72.| 🎶[Edit Distance](https://leetcode.com/problems/edit-distance/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Edit%20Distance.cpp)|
+| 87.| 🎶[Scramble String](https://leetcode.com/problems/scramble-string/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Scramble%20String.cpp)|
 | 101.| 🎶[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Symmetric%20Tree.cpp)|
 | 103.| 🎶[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)|
 | 104.| 🎶[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Maximum%20Depth%20of%20Binary%20Tree.cpp)|
