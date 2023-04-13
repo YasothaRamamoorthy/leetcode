@@ -47,6 +47,7 @@
 | 876.| 🎶[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Middle%20of%20the%20Linked%20List.cpp)|
 | 912.| 🎶[Sort an Array](https://leetcode.com/problems/sort-an-array/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Sort%20an%20Array.cpp)|
 | 904.| 🎶[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Fruit%20Into%20Baskets.cpp)|
+| 946.| 🎶[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Validate%20Stack%20Sequences.cpp)|
 | 958.| 🎶[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Check%20Completeness%20of%20a%20Binary%20Tree.cpp)|
 | 983.| 🎶[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Minimum%20Cost%20For%20Tickets.cpp)|
 | 989.| 🎶[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Add%20to%20Array-Form%20of%20Integer.cpp)|
