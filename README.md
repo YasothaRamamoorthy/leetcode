@@ -32,6 +32,7 @@
 | 211.| 🎶[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp)|
 | 217.| 🎶[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Contains%20Duplicate.cpp)|
 | 226.| 🎶[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Invert%20Binary%20Tree.cpp)|
+| 258.| 🎶[Add Digits](https://leetcode.com/problems/add-digits/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Add%20Digits.cpp)|
 | 278.| 🎶[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/First%20Bad%20Version.cpp)|
 |392.|  [Is Subsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1)|[C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Is%20Subsequence.cpp)|
 | 409.| 🎶[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)| [C++](https://github.com/YasothaRamamoorthy/leetcode/blob/main/problems/twosum/Longest%20Palindrome.cpp)|
